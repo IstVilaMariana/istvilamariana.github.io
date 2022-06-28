@@ -1,0 +1,15 @@
+.li{
+color: #f0e7e8;
+text-align: center;
+border-style: solid;
+border-width: medium;
+border-color: #dc3545;
+margin: 10px;
+width: 200px;
+border-radius: 5px;
+/* border-color: white; */
+font-size: 25px;
+line-height: 26px;
+padding: 20px 15px !important;
+transition: .2s ease-in-out 0s;
+}
